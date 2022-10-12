@@ -1,0 +1,14 @@
+.standard,
+.highlight {
+    font-family: Helvetica, 'Times New Roman',  sans-serif;
+    font-size: 28px;
+}
+
+.standard {
+    background-color: #000;
+    color: #fff;
+}
+
+.highlight {
+    background-color: rgb(190, 190, 51);
+}
