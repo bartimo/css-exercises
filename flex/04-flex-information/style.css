@@ -16,7 +16,7 @@ img {
 
 .plant-container {
   display: flex;
-  justify-content: space-around;
+  justify-content: center;
   gap: 20px;
   padding: 30px;
  
@@ -27,7 +27,7 @@ img {
   flex-direction: column;
   text-align: center;
   align-items: center;
-  border: 1px solid #000;
+ 
 }
 
 /* do not edit this footer */
